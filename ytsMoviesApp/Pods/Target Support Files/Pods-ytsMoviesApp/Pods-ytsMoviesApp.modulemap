@@ -1,0 +1,6 @@
+framework module Pods_ytsMoviesApp {
+  umbrella header "Pods-ytsMoviesApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
